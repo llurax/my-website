@@ -36,7 +36,7 @@ h2{
     height: 100px;
 }
 
-@media screen and (max-width:450px){
+@media (max-width:450px){
     #title img{
         width:400px;
         height: 400px;
